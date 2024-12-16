@@ -14,7 +14,7 @@ The **Multi-Agent Reinforcement Learning (MARL) framework** introduces an innova
 
 #### Policy Network:
 
-![Policy Network](images/Policy_Network_Portfolio_Mgmt.png)
+![Policy Network](images/Policy_Network_PortFolio_Mgmt.png)
 
 #### Critic Network:
 
